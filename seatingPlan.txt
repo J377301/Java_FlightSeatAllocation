@@ -1,0 +1,13 @@
+      A B C D E F
+Row 1 * * A * A A
+Row 2 * A * A * A
+Row 3 * * A C * A
+Row 4 C * A * A A
+Row 5 * A * A * *
+Row 6 * A * * * A
+Row 7 A * * * A C
+Row 8 * A * A C *
+Row 9 A * A A * A
+Row 10 * A * A C C
+Row 11 * * A * A *
+Row 12 * * A A * A
